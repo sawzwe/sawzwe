@@ -164,13 +164,13 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![Snake animation](https://github.com/sawzwe/sawzwe/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sawzwe/sawzwe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sawzwe/sawzwe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sawzwe/sawzwe/output/github-snake.svg" />
+</picture>
 
 </div>
-
----
-
-<div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
 
