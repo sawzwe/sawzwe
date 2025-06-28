@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Saw+Zwe!;I'm+a+Full+Stack+Developer...;I+love+coding+and+innovation!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=58A6FF&size=22&lines=Software+Developer;Full-Stack+Web+Developer;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,33 +13,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/sawzwe?label=Stars&style=social)](https://github.com/sawzwe)
 
 </div>
-
----
-
-## 🚀 About Me
-
-```typescript
-const sawzwe = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "database design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "Flask", "FastAPI"],
-            misc: ["Firebase", "Supabase"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Supabase"],
-        misc: ["Docker", "AWS", "Git", "Linux"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed!"
-};
-```
 
 ---
 
